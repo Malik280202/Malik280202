@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Malik280202
-- 👀 I’m interested in UFC, football(Soccer:), reading books, stoicism,phylisophy
 - 🌱 I’m currently learning Ulsan, South Korea 
-- 💞️ I’m looking to collaborate on App creation 
 - 📫 How to reach me 
 
 <!---
